@@ -1,0 +1,36 @@
+# QGIS Day 3 – Georeferencing & Digitizing Bangalore (1924)
+
+This repository contains my **Day 3 QGIS learning mini-projects** where I worked on:
+1. **Georeferencing** – Aligning a historical map of Bangalore (1924) with a modern OpenStreetMap basemap.
+2. **Digitizing** – Mapping and categorizing lakes (Healthy, Partially Lost, Lost) to visualize urban change over time.
+
+---
+
+## **Project Overview**
+- **Software:** QGIS (Georeferencer & Digitizing tools)
+- **Data:**
+  - Historical Bangalore Map (1924) – Public Domain
+  - Basemap: OpenStreetMap (EPSG:3857)
+- **Tutorial Credit:** Ujaval Gandhi – Spatial Thoughts
+
+---
+
+## **What I Learned**
+- How to load and georeference scanned historical maps.
+- How to use snapping tools and digitize polygons.
+- How to categorize vector features based on attributes (Healthy, Partially Lost, Lost).
+- Styling layers using categorized renderer in QGIS.
+
+---
+
+## **Outputs**
+- Georeferenced historical map overlay (GeoTIFF).
+- Digitized lake polygons with attributes.
+- Styled map layouts for visual comparison.
+
+### Sample Output:
+![Bangalore Lakes Categorization](geographic%20bangalore%20map%20analysis.png)
+
+---
+
+## **Repository Structure**
